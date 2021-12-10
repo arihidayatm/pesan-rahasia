@@ -1,5 +1,4 @@
-# pesan-rahasia
-Translate Pesan Rahasia
-
-Berikut adalah translate berupa pesan yang dijadikan text rahasia
+Translate Pesan Rahasia.
+<br>
+Berikut adalah translate berupa pesan yang dijadikan text rahasia. <br>
 Silahkan Coba Aja Bro.
